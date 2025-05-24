@@ -48,12 +48,8 @@ export default function About() {
               variants={fadeInUp}
             >
               <div className="p-4 bg-gray-50 rounded-lg">
-                <h3 className="font-bold text-xl text-gray-900">12+</h3>
+                <h3 className="font-bold text-xl text-gray-900">1+</h3>
                 <p className="text-gray-600">Years Experience</p>
-              </div>
-              <div className="p-4 bg-gray-50 rounded-lg">
-                <h3 className="font-bold text-xl text-gray-900">1400+</h3>
-                <p className="text-gray-600">LinkedIn Followers</p>
               </div>
             </motion.div>
           </motion.div>
