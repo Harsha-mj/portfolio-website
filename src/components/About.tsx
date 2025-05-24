@@ -27,7 +27,7 @@ export default function About() {
             className="flex items-stretch" // ✅ Ensures it stretches fully
             variants={fadeInUp}
           >
-            <img src="/portfolio-website/Harsha_bio.JPEG" alt="Harshavardhan" className="w-full h-full object-cover rounded-2xl" />
+            <img src="/portfolio-website/Harsha_bio.JPG" alt="Harshavardhan" className="w-full h-full object-cover rounded-2xl" />
           
           </motion.div>
 
