@@ -22,7 +22,7 @@ export default function Navbar() {
               <a href="https://github.com/Harsha-mj?tab=repositories" target="_blank" rel="noopener noreferrer" className="text-gray-700 hover:text-gray-900">
                 <Github className="w-5 h-5" />
               </a>
-              <a href="www.linkedin.com/in/harshavardhan-mallappa-jayanna-3083aa211" target="_blank" rel="noopener noreferrer" className="text-gray-700 hover:text-gray-900">
+              <a href="https://linkedin.com/in/harshavardhan-mallappa-jayanna-3083aa211" target="_blank" rel="noopener noreferrer" className="text-gray-700 hover:text-gray-900">
                 <Linkedin className="w-5 h-5" />
               </a>
               <a href="mailto:mjharsha95@gmail.com" className="text-gray-700 hover:text-gray-900">
