@@ -16,10 +16,10 @@ export default function Contact() {
     try {
       setIsSubmitting(true);
       await emailjs.sendForm(
-        'service_n9w7psf',
-        'template_1z6v4lq',
+        'YOUR_SERVICE_ID',
+        'YOUR_TEMPLATE_ID',
         formRef.current,
-        'VoK8ndYty9JAOeSrU'
+        'YOUR_PUBLIC_KEY'
       );
       toast.success('Message sent successfully!');
       formRef.current.reset();
