@@ -5,7 +5,7 @@ export const projectsData: ProjectItem[] = [
     title: "Property Price Prediction App",
     description:
       "App to predict the estimated price of a property based on various features like size, age, location, and property type",
-    image: "receipeG_app.png",
+    image: "property_app.png",
     tech: ["Python", "GenAI", "OpenAI", "Flask", "JavaScript", "HTML", "CSS"],
     github: "https://github.com/Harsha-mj/Property_Price_Predection",
     live: "https://propertypricepredection-fsybbqrdwfpeqmdinbazju.streamlit.app/",
@@ -43,7 +43,7 @@ export const projectsData: ProjectItem[] = [
   {
     title: "Admission Prediction using Neural-Networks",
     description: "Predicts whether a applicant is likely to be admitted to a university",
-    image: "text.png",
+    image: "admission_app.png",
     tech: ["Python", "GenAI", "HuggingFace", "Transformers", "Large Language Model (LLM)"],
     github: "https://github.com/Harsha-mj/Admission-Prediction-Neural-Networks",
     live: "https://admission-prediction-neural-networks-9n89gns8ykuuirqgqigyqv.streamlit.app/",
