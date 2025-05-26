@@ -27,7 +27,7 @@ export const projectsData: ProjectItem[] = [
     image: "credit.png",
     tech: ["Python", "Streamlit", "Pandas", "Scikit-Learn"],
     github: "https://github.com/Harsha-mj/Credit_eligibility",
-    live: "https://crediteligibility-7kcsnuwukjqg5mu3ebosvh.streamlit.app/",
+    live: "https://crediteligibility-4ztjbqgl78bn32deanm3sh.streamlit.app/",
     details: {
       "problem": "Assessing credit risk accurately is crucial for financial institutions to minimize defaults",
       "solution": "Developed a predictive model using the German credit risk dataset to classify applicants as low or high risk",
